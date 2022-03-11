@@ -12,6 +12,7 @@ The tables that has been used are:
 6. Teachers
 7. Interns: We added interns as a non-conventional option for temporary teaching and non-teaching staff
 8. Students
+
 These tables are further interconnected with one another based on the needs and all the necessary details in the databases are covered here.
 
 # FDBMS-Airline-Ticket-Booking-System
