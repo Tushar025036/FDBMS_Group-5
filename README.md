@@ -27,7 +27,8 @@ A mysql program for Airline Ticket Booking System THE TABLES USED IN OUR RESERVA
 6. Passenger
 7. User
 8. Ticket
-![airline](https://user-images.githubusercontent.com/93579331/157825859-92e63760-5396-4bd4-9761-b41092b938e7.jpg)
+![airline final](https://user-images.githubusercontent.com/93579331/157825967-af2c6ef2-5510-4c3e-9320-5138e235b872.jpg)
+
 
 These tables, further have many entries and are interrelated with each other,After the flights are flown, for the purposes of analysis by the airline, the data is also stored and converted into a modern structured database, usually SQL. It is a relational database with multiple layers of interconnectivity within the overall structure.
 
